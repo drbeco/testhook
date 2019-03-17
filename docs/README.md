@@ -15,6 +15,7 @@ TODO: new ideas
 
 ## Author
 
-By Prof. Dr. Ruben Carlo Benante <rcb@beco.cc.
+By Prof. Dr. Ruben Carlo Benante <rcb@beco.cc>
+
 
 
